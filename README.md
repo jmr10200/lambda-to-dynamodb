@@ -1,7 +1,7 @@
 # lambda-to-dynamodb
 
 ## 요구사항
-https://www.notion.so/gymin/AWS-0cc1ba64d4e845b093d2599c6d5a46ed
+[(노션 링크)](https://gymin.notion.site/AWS-0cc1ba64d4e845b093d2599c6d5a46ed?pvs=4)
 
 ## 구현 내용
 Lambda를 실행하여 dynamoDB에 데이터를 등록,삭제,조회
